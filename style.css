@@ -113,7 +113,7 @@ nav{
     margin-top: 5rem;
     width: 100%;
     height: auto;
-    background-image: url("city.jpg");
+    background-image: url("/img/city.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;

@@ -49,4 +49,6 @@ Through this final project, I practiced and demonstrated:
 ## 👨‍💻 About the Developer
 Created by **SkyJirayuDev** for the IBM JavaScript Programming Essentials course.
 
-- [LinkedIn](https://www.linkedin.com/in/skyjirayu)
+- ➡️ [My LinkedIn Profile](https://www.linkedin.com/in/skyjirayu)
+- ➡️ [My Portfolio Website](https://sky-personal-portfolio-website.netlify.app)
+- ➡️ [My Certificate](https://coursera.org/share/41ce0d02a3fec010fdfcf600dd820aee)
